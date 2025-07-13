@@ -34,7 +34,10 @@ o	Store comparisons
 
 **Tools:**
 Python: Used for data cleaning, transformation, and merging datasets using libraries like Pandas and NumPy.
-SQL (MySQL/PostgreSQL): Used for storing cleaned data and writing queries to extract insights from multiple tables.
-Power BI / Tableau: Data visualization tools used to create interactive dashboards and present key insights.
-Jupyter Notebook / VS Code: Environment used for running Python code, exploring datasets, and documenting the EDA process.
+MYSQL:  Used for storing cleaned data and writing queries to extract insights from multiple tables.
+Power BI: Data visualization tools used to create interactive dashboards and present key insights.
+VS Code: Environment used for running Python code, exploring datasets, and documenting the EDA process.
 Excel: Used for initial data exploration, manual validation, and quick summaries before loading data into SQL.
+
+**Findings**
+The analysis revealed that specific customer segments contribute significantly to repeat purchases. Top-performing products and stores were identified, highlighting opportunities for targeted promotions and expansion. Additionally, currency fluctuations were found to impact international sales, suggesting a need for dynamic pricing strategies.
