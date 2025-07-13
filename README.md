@@ -33,11 +33,13 @@ o	Store comparisons
 **11. Final Report:** Compile your work into a structured report or presentation with charts, KPIs, and clear narratives supporting each business use case.
 
 **Tools:**
+
 Python: Used for data cleaning, transformation, and merging datasets using libraries like Pandas and NumPy.
 MYSQL:  Used for storing cleaned data and writing queries to extract insights from multiple tables.
 Power BI: Data visualization tools used to create interactive dashboards and present key insights.
 VS Code: Environment used for running Python code, exploring datasets, and documenting the EDA process.
 Excel: Used for initial data exploration, manual validation, and quick summaries before loading data into SQL.
 
-****Findings***
+**Findings**
+
 The analysis revealed that specific customer segments contribute significantly to repeat purchases. Top-performing products and stores were identified, highlighting opportunities for targeted promotions and expansion. Additionally, currency fluctuations were found to impact international sales, suggesting a need for dynamic pricing strategies.
